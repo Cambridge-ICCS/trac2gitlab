@@ -1,0 +1,4 @@
+RELEASE_PACKAGE=gitlab-ce
+RELEASE_VERSION=19.2.0-ce
+DOWNLOAD_URL_amd64=https://packages.gitlab.com/gitlab/gitlab-ce/ubuntu/noble/pool/main/g/gitlab-ce/gitlab-ce_19.2.0-ce.0_amd64.deb
+DOWNLOAD_URL_arm64=https://packages.gitlab.com/gitlab/gitlab-ce/ubuntu/noble/pool/main/g/gitlab-ce/gitlab-ce_19.2.0-ce.0_arm64.deb
